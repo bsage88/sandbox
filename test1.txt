@@ -9,3 +9,7 @@ This is a test file:
 7
 8
 9
+0
+1
+2
+3
